@@ -1,0 +1,18 @@
+/COM,ANSYS RELEASE 2023 R1           BUILD 23.1      UP20221128       14:52:08
+
+ *** WARNING ***                         CP =       2.469   TIME= 14:52:10
+ Element shape checking is currently inactive.  Issue SHPP,ON or         
+ SHPP,WARN to reactivate, if desired.                                    
+
+ *** WARNING ***                         CP =       2.922   TIME= 14:52:10
+ Material number 77 (used by element 68954) should normally have at      
+ least one MP or one TB type command associated with it.  Output of      
+ energy by material may not be available.                                
+
+ *** WARNING ***                         CP =       3.750   TIME= 14:52:10
+ Maximum contact stiffness 1.777838509E+17 is too big which can cause an 
+ accuracy problem, you may scale the force units in the model.           
+
+ *** WARNING ***                         CP =       9.656   TIME= 14:52:16
+ Contact element 65759 (real ID 64) status changes abruptly from         
+ no-contact -> contact (with target element 65742).                      

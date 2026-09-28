@@ -1,0 +1,9 @@
+# encoding: utf-8
+# 2023 R1
+SetScriptVersion(Version="23.1.153")
+system1 = GetSystem(Name="SYS")
+system2 = system1.Duplicate(
+    ComponentsToShare=[],
+    RelativeTo=system1)
+Save(Overwrite=True)
+Open(FilePath="C:/Users/vivek/OneDrive/Desktop/RE_glasses/Simulation/Stress_Strain_test.wbpj")
